@@ -24,7 +24,8 @@
     ],
     "explanation": "Con il pronome personale 'io' si usa la prima persona singolare del presente indicativo di andare: 'vado'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: prima persona singolare del verbo 'andare'."
   },
   {
     "id": "q-2",
@@ -51,7 +52,8 @@
     ],
     "explanation": "La frase si riferisce alla prima persona ('io prendo la macchina').",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-3",
@@ -78,7 +80,8 @@
     ],
     "explanation": "Marco corrisponde alla terza persona singolare ('lui'), quindi si coniuga 'fa' (verbo fare).",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: terza persona singolare del verbo 'si'."
   },
   {
     "id": "q-4",
@@ -105,7 +108,8 @@
     ],
     "explanation": "Con il pronome 'noi' la desinenza del presente indicativo è '-iamo': 'viviamo'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-5",
@@ -132,7 +136,8 @@
     ],
     "explanation": "Il verbo 'comprare' richiede l'ausiliare 'avere' al passato prossimo: 'ho comprato'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa il passato prossimo con l'ausiliare 'avere'."
   },
   {
     "id": "q-6",
@@ -159,7 +164,8 @@
     ],
     "explanation": "Il verbo di movimento 'scendere' richiede l'ausiliare 'essere' e concorda in genere e numero col soggetto plurale ('ragazzi' -> 'sono scesi').",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa il passato prossimo con l'ausiliare 'essere'."
   },
   {
     "id": "q-7",
@@ -186,7 +192,8 @@
     ],
     "explanation": "Uscire è intransitivo di movimento, richiede 'essere' come ausiliare e concorda con il soggetto femminile singolare Anna ('è uscita').",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-8",
@@ -213,7 +220,8 @@
     ],
     "explanation": "'Mangiare' richiede l'ausiliare 'avere'. Il participio passato resta invariato in '-o' in assenza di pronomi diretti antecedenti.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa il passato prossimo con l'ausiliare 'avere'."
   },
   {
     "id": "q-9",
@@ -240,7 +248,8 @@
     ],
     "explanation": "Andare richiede l'ausiliare 'essere'. Essendo 'i miei genitori' maschile plurale, il participio è 'andati'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa il passato prossimo con l'ausiliare 'essere'."
   },
   {
     "id": "q-10",
@@ -267,7 +276,8 @@
     ],
     "explanation": "Vedere richiede l'ausiliare 'avere': 'ha visto' (participio irregolare).",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa il passato prossimo con l'ausiliare 'avere'."
   },
   {
     "id": "q-11",
@@ -294,7 +304,8 @@
     ],
     "explanation": "Per un'azione puntuale e conclusa nel passato si usa il passato prossimo: 'ho comprato'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-12",
@@ -321,7 +332,8 @@
     ],
     "explanation": "Per descrivere un'azione abituale o ripetuta nel passato si usa l'imperfetto: 'giocavo'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-13",
@@ -348,7 +360,8 @@
     ],
     "explanation": "La congiunzione 'mentre' introduce un'azione continuativa sullo sfondo nel passato, espressa con l'imperfetto ('mangiavo'). L'interruzione è al passato prossimo.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-14",
@@ -375,7 +388,8 @@
     ],
     "explanation": "Gli stati fisici, mentali o il possesso continuativo nel passato richiedono l'imperfetto: 'avevo'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-15",
@@ -402,7 +416,8 @@
     ],
     "explanation": "Le descrizioni del tempo meteorologico nel passato richiedono l'imperfetto: 'pioveva'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-16",
@@ -429,7 +444,8 @@
     ],
     "explanation": "I verbi riflessivi richiedono sempre l'ausiliare 'essere' al passato prossimo (se l'utente è maschio 'mi sono svegliato', se femmina 'mi sono svegliata'). Entrambi corretti.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-17",
@@ -456,7 +472,8 @@
     ],
     "explanation": "Il verbo riflessivo presente per la prima persona singolare è 'mi sveglio'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: prima persona singolare."
   },
   {
     "id": "q-18",
@@ -483,7 +500,8 @@
     ],
     "explanation": "La forma riflessiva per 'voi' è 'vi addormentate'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-19",
@@ -510,7 +528,8 @@
     ],
     "explanation": "La terza persona singolare riflessiva di vestirsi è 'si veste'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: terza persona singolare del verbo 'vestirsi'."
   },
   {
     "id": "q-20",
@@ -537,7 +556,8 @@
     ],
     "explanation": "Divertirsi al passato prossimo richiede 'essere' ed accordo col soggetto femminile singolare: 'si è divertita'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-21",
@@ -564,7 +584,8 @@
     ],
     "explanation": "Azione futura pianificata: si coniuga al futuro semplice prima persona plurale ('andremo').",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: prima persona plurale del verbo 'andremo'."
   },
   {
     "id": "q-22",
@@ -591,7 +612,8 @@
     ],
     "explanation": "'Vorrei' è il condizionale di cortesia di volere, usato per ordinare in modo gentile.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-23",
@@ -618,7 +640,8 @@
     ],
     "explanation": "Periodo ipotetico del secondo tipo (possibilità): Congiuntivo imperfetto nella secondaria ('avessi') + Condizionale presente nella principale ('andrei').",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-24",
@@ -645,7 +668,8 @@
     ],
     "explanation": "Periodo ipotetico con condizionale nella principale ('prenderesti') richiede il congiuntivo imperfetto nella subordinata introdotta da se: 'studiassi'.",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-25",
@@ -672,7 +696,8 @@
     ],
     "explanation": "Periodo ipotetico di secondo tipo: se + congiuntivo imperfetto ('avessimo') richiede il condizionale presente ('visiteremmo').",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-26",
@@ -699,7 +724,8 @@
     ],
     "explanation": "Partire richiede l'ausiliare essere. Poiché l'azione è avvenuta ieri, si usa il passato prossimo: 'siamo partiti'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa il passato prossimo con l'ausiliare 'essere'."
   },
   {
     "id": "q-27",
@@ -726,7 +752,8 @@
     ],
     "explanation": "Telefonare è un verbo transitivo che richiede avere: 'hai telefonato' (azione puntuale passata che interrompe un'azione continuativa 'dormivo').",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-28",
@@ -753,7 +780,8 @@
     ],
     "explanation": "Azione futura pianificata espressa con il futuro semplice prima persona singolare: 'farò'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: prima persona singolare."
   },
   {
     "id": "q-29",
@@ -780,7 +808,8 @@
     ],
     "explanation": "Il verbo 'pensare che' esprime un'opinione e richiede il congiuntivo presente: 'sia'.",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-30",
@@ -807,7 +836,8 @@
     ],
     "explanation": "Frase subordinata al passato che richiede el congiuntivo trapassato (congiuntivo imperfetto di essere 'foste' + participio 'arrivati').",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-31",
@@ -834,7 +864,8 @@
     ],
     "explanation": "Intorno a un tavolo in cucina si mettono solitamente le 'sedie'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Si usano per sedersi intorno al tavolo."
   },
   {
     "id": "q-32",
@@ -861,7 +892,8 @@
     ],
     "explanation": "Un mobile a tre posti per sedersi o sdraiarsi in soggiorno è il 'divano'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Un mobile a tre posti per sedersi comodamente."
   },
   {
     "id": "q-33",
@@ -888,7 +920,8 @@
     ],
     "explanation": "La conservazione di latte e yogurt richiede il 'frigorifero'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Elettrodomestico freddo per conservare alimenti."
   },
   {
     "id": "q-34",
@@ -915,7 +948,8 @@
     ],
     "explanation": "L'elettrodomestico per lavare i vestiti è la 'lavatrice'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "L'elettrodomestico per lavare i panni."
   },
   {
     "id": "q-35",
@@ -942,7 +976,8 @@
     ],
     "explanation": "L'armadio si usa per conservare vestiti e giacche nella camera da letto.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-36",
@@ -969,7 +1004,8 @@
     ],
     "explanation": "Si appoggia la testa sui 'cuscini' quando si dorme nel letto.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-37",
@@ -996,7 +1032,8 @@
     ],
     "explanation": "Il contrario di 'sopra' è 'sotto'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Qual è il contrario di 'sopra'?"
   },
   {
     "id": "q-38",
@@ -1023,7 +1060,8 @@
     ],
     "explanation": "Il mobiletto basso accanto al letto è il 'comodino'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-39",
@@ -1050,7 +1088,8 @@
     ],
     "explanation": "In bagno si può avere la doccia o la 'vasca da bagno'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-40",
@@ -1077,7 +1116,8 @@
     ],
     "explanation": "Per indicare la presenza di elementi al plurale ('due poltrone') si usa 'ci sono'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-41",
@@ -1104,7 +1144,8 @@
     ],
     "explanation": "Si usa 'c'è' per indicare la presenza o l'esistenza di un elemento singolare ('un balcone').",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-42",
@@ -1131,7 +1172,8 @@
     ],
     "explanation": "La pattumiera solitamente si posiziona 'sotto' il lavandino (lavello) in cucina.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-43",
@@ -1158,7 +1200,8 @@
     ],
     "explanation": "La chiave si trova inserita 'nella' serratura della porta.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-44",
@@ -1185,7 +1228,8 @@
     ],
     "explanation": "Si dice 'accanto a' per indicare la vicinanza laterale.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-45",
@@ -1212,7 +1256,8 @@
     ],
     "explanation": "Ci si specchia nello 'specchio'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-46",
@@ -1239,7 +1284,8 @@
     ],
     "explanation": "Si dorme in camera da letto.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "La stanza dove si dorme."
   },
   {
     "id": "q-47",
@@ -1266,7 +1312,8 @@
     ],
     "explanation": "Il lavandino della cucina è comunemente chiamato 'lavello'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-48",
@@ -1293,7 +1340,8 @@
     ],
     "explanation": "Se il riscaldamento è spento, la casa diventa 'fredda'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-49",
@@ -1320,7 +1368,8 @@
     ],
     "explanation": "Per salire ai piani alti si usa l'ascensore.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-50",
@@ -1347,7 +1396,8 @@
     ],
     "explanation": "Una finestra permette di vedere l'esterno.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-51",
@@ -1374,7 +1424,8 @@
     ],
     "explanation": "Un mobile basso ha solitamente dei 'cassetti' per riporre oggetti.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-52",
@@ -1401,7 +1452,8 @@
     ],
     "explanation": "L'automobile si parcheggia nel garage.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti della casa, agli elettrodomestici o ai mobili."
   },
   {
     "id": "q-53",
@@ -1428,7 +1480,8 @@
     ],
     "explanation": "Pronominale diretto femminile singolare riferito a Maria: 'la'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa un pronome diretto (femminile singolare)."
   },
   {
     "id": "q-54",
@@ -1455,7 +1508,8 @@
     ],
     "explanation": "Pronominale diretto maschile plurale riferito a i giornali: 'li'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa un pronome diretto (maschile plurale)."
   },
   {
     "id": "q-55",
@@ -1482,7 +1536,8 @@
     ],
     "explanation": "Pronominale indiretto femminile singolare riferito a Maria ('a lei'): 'le'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa un pronome diretto (femminile singolare)."
   },
   {
     "id": "q-56",
@@ -1509,7 +1564,8 @@
     ],
     "explanation": "Pronominale indiretto maschile singolare riferito a Marco ('a lui'): 'gli'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa un pronome diretto (maschile singolare)."
   },
   {
     "id": "q-57",
@@ -1536,7 +1592,8 @@
     ],
     "explanation": "Pronome diretto 'le' (femminile plurale) + passato prossimo richiede l'accordo del participio passato al plurale femminile ('viste').",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa un pronome diretto (femminile plurale)."
   },
   {
     "id": "q-58",
@@ -1563,7 +1620,8 @@
     ],
     "explanation": "Il pronome indiretto per la terza persona plurale ('a Paolo e Anna' -> 'a loro') prima del verbo è 'gli' (o colloquiale/tradizionale 'dico loro'). In questo caso prima del verbo usiamo 'gli'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: terza persona plurale del verbo 'gli'."
   },
   {
     "id": "q-59",
@@ -1590,7 +1648,8 @@
     ],
     "explanation": "Pronominale diretto riferito ai bambini (maschile plurale): 'li'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa un pronome diretto (maschile plurale)."
   },
   {
     "id": "q-60",
@@ -1617,7 +1676,8 @@
     ],
     "explanation": "Il pronome 'lo' si apostrofa davanti alla voce verbale 'ho' diventando 'l'': 'l'ho comprato'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-61",
@@ -1644,7 +1704,8 @@
     ],
     "explanation": "Il pronome 'la' davanti a 'ho' diventa 'l'' e si fa l'accordo del participio 'invitata'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-62",
@@ -1671,7 +1732,8 @@
     ],
     "explanation": "Nella forma di cortesia (formale) si usa il pronome 'La' con la lettera maiuscola, riferito a una persona singolare.",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-63",
@@ -1698,7 +1760,8 @@
     ],
     "explanation": "Il pronome diretto per la seconda persona plurale ('voi') è 'vi'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: seconda persona plurale del verbo 'voi'."
   },
   {
     "id": "q-64",
@@ -1725,7 +1788,8 @@
     ],
     "explanation": "Il verbo telefonare regge a chi ('a loro' -> pronominale indiretto 'gli').",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa un pronome diretto (maschile singolare)."
   },
   {
     "id": "q-65",
@@ -1752,7 +1816,8 @@
     ],
     "explanation": "Pronome combinato: 'mi' (a me) + 'la' (la penna) davanti ad ausiliare avere diventa 'me l'ha prestata'.",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-66",
@@ -1779,7 +1844,8 @@
     ],
     "explanation": "Pronominale combinato 'gli' (a lui) + 'lo' (il regalo) davanti ad ausiliare avere con H si contrae in 'gliel'ho dato'.",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-67",
@@ -1806,7 +1872,8 @@
     ],
     "explanation": "Pronome diretto femminile singolare riferito a 'la casa': 'la'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa un pronome diretto (femminile singolare)."
   },
   {
     "id": "q-68",
@@ -1833,7 +1900,8 @@
     ],
     "explanation": "Pronominale combinato: 'vi' (a voi, diventa 've') + 'le' (le risposte): 've le do'.",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-69",
@@ -1860,7 +1928,8 @@
     ],
     "explanation": "Pronome combinato indiretto 'gli' (a loro) + partitivo 'ne' (di caffè): 'gliene ho offerto uno'.",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa un pronome diretto (maschile singolare)."
   },
   {
     "id": "q-70",
@@ -1887,7 +1956,8 @@
     ],
     "explanation": "Pronome diretto riferito a 'la torta' (femminile singolare): 'la'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa un pronome diretto (femminile singolare)."
   },
   {
     "id": "q-71",
@@ -1914,7 +1984,8 @@
     ],
     "explanation": "Pronome combinato 'gli' (a lui) + 'la' (la lettera) diventa 'gliela' e davanti a ho si contrae in 'gliel'ho spedita' (con accordo al femminile).",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-72",
@@ -1941,7 +2012,8 @@
     ],
     "explanation": "Rispondendo alla domanda con 'ci' (noi), si usa 'vi' (voi): 'vi porto volentieri'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-73",
@@ -1968,7 +2040,8 @@
     ],
     "explanation": "Il pronome partitivo 'ne' esprime una quantità definita di un insieme ('due cioccolatini'). Il participio concorda col numero ('mangiati').",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-74",
@@ -1995,7 +2068,8 @@
     ],
     "explanation": "Aver bisogno 'di qualcosa' richiede il pronome partitivo/argomento 'ne': 'ne ho molto bisogno'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione al contesto della frase per scegliere la risposta corretta."
   },
   {
     "id": "q-75",
@@ -2022,7 +2096,8 @@
     ],
     "explanation": "Davanti a nomi maschili singolari che iniziano per consonante normale si usa l'articolo indeterminativo 'un'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-76",
@@ -2049,7 +2124,8 @@
     ],
     "explanation": "Insegnante inizia per vocale, quindi l'articolo determinativo si apostrofa diventando 'l''.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-77",
@@ -2076,7 +2152,8 @@
     ],
     "explanation": "Articolo indeterminativo per nomi femminili singolari che iniziano per consonante: 'una'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-78",
@@ -2103,7 +2180,8 @@
     ],
     "explanation": "Davanti a parole maschili che iniziano con 's + consonante' si usa l'articolo indeterminativo 'uno'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-79",
@@ -2130,7 +2208,8 @@
     ],
     "explanation": "Articolo determinativo plurale maschile davanti a consonante normale: 'i'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-80",
@@ -2157,7 +2236,8 @@
     ],
     "explanation": "Articolo determinativo plurale femminile: 'le'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-81",
@@ -2184,7 +2264,8 @@
     ],
     "explanation": "Articolo determinativo plurale maschile davanti a nomi che iniziano per vocale: 'gli'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-82",
@@ -2211,7 +2292,8 @@
     ],
     "explanation": "Articolo indeterminativo femminile singolare davanti a parola che inizia per vocale si apostrofa: 'un''.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-83",
@@ -2238,7 +2320,8 @@
     ],
     "explanation": "Si usa la preposizione semplice 'a' con l'espressione 'andare a scuola'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-84",
@@ -2265,7 +2348,8 @@
     ],
     "explanation": "Preposizione articolata 'su + il' = 'sul' (sopra la superficie del tavolo).",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa una preposizione articolata."
   },
   {
     "id": "q-85",
@@ -2292,7 +2376,8 @@
     ],
     "explanation": "Provenienza geografica da una nazione: 'venire da' + articolo determinativo (l'Italia) = 'dall'Italia'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-86",
@@ -2319,7 +2404,8 @@
     ],
     "explanation": "Argomento: 'parlare di' + articolo plurale femminile (le vacanze) = 'delles vacanze'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-87",
@@ -2346,7 +2432,8 @@
     ],
     "explanation": "Con i nomi di città si usa 'a'. Per indicare una durata nel presente (azione iniziata nel passato e ancora in corso) si usa la preposizione 'da'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-88",
@@ -2373,7 +2460,8 @@
     ],
     "explanation": "Moto a luogo verso una persona/professionista: 'da' + articolo determinativo (il dentista) = 'dal dentista'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-89",
@@ -2400,7 +2488,8 @@
     ],
     "explanation": "Non si usa l'articolo determinativo con i nomi di famiglia al singolare preceduti da aggettivo possessivo (tranne 'loro').",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-90",
@@ -2427,7 +2516,8 @@
     ],
     "explanation": "I nomi di parentela al plurale richiedono l'articolo prima del possessivo: 'le mie sorelle'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-91",
@@ -2454,7 +2544,8 @@
     ],
     "explanation": "Chiave è femminile plurale ('chiavi'), quindi richiede l'articolo e possessivo femminile plurale: 'le mie'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-92",
@@ -2481,7 +2572,8 @@
     ],
     "explanation": "Gli aggettivi possessivi con nomi comuni richiedono l'articolo: 'la nostra casa'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-93",
@@ -2508,7 +2600,8 @@
     ],
     "explanation": "I nomi di parentela modificati da vezzeggiativi ('mamma', 'papà') mantengono l'articolo con il possessivo: 'la sua mamma'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-94",
@@ -2535,7 +2628,8 @@
     ],
     "explanation": "Stato in luogo dentro qualcosa che inizia con 'z': 'in + lo' = 'nello'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-95",
@@ -2562,7 +2656,8 @@
     ],
     "explanation": "Moto a luogo: andare + articolo + cinema = 'al cinema' (a + il).",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-96",
@@ -2589,7 +2684,8 @@
     ],
     "explanation": "Destinazione d'uso o destinatario: preposizione semplice 'per'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Fai attenzione alla preposizione corretta da usare."
   },
   {
     "id": "q-97",
@@ -2616,7 +2712,8 @@
     ],
     "explanation": "Dopo 'piace' si usa il verbo all'infinito per indicare l'azione gradita.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-98",
@@ -2643,7 +2740,8 @@
     ],
     "explanation": "Con sport con la palla (tennis) si usa el verbo 'giocare a'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-99",
@@ -2670,7 +2768,8 @@
     ],
     "explanation": "Il soggetto logico è plurale ('i film'), quindi si usa la terza persona plurale 'piacciono'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: terza persona plurale del verbo 'si'."
   },
   {
     "id": "q-100",
@@ -2697,7 +2796,8 @@
     ],
     "explanation": "Espressione 'fare una passeggiata' coniugata al passato prossimo con ausiliare avere: 'abbiamo fatto'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-101",
@@ -2724,7 +2824,8 @@
     ],
     "explanation": "Per il nuoto si usa il verbo 'fare': 'fare nuoto'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-102",
@@ -2751,7 +2852,8 @@
     ],
     "explanation": "Leggere i libri è l'azione adatta all'oggetto.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-103",
@@ -2778,7 +2880,8 @@
     ],
     "explanation": "Compagnia: preposizione 'con'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-104",
@@ -2805,7 +2908,8 @@
     ],
     "explanation": "Moto a luogo con 'cinema' prende 'al' ('a + il').",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-105",
@@ -2832,7 +2936,8 @@
     ],
     "explanation": "Andare 'in spiaggia' è un'espressione idiomatica molto comune.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-106",
@@ -2859,7 +2964,8 @@
     ],
     "explanation": "'Lo sport' è singolare, quindi si usa 'piace'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-107",
@@ -2886,7 +2992,8 @@
     ],
     "explanation": "Si dice 'fare jogging' (correre per allenarsi).",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-108",
@@ -2913,7 +3020,8 @@
     ],
     "explanation": "Ascoltare la musica classica è l'espressione corretta.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-109",
@@ -2940,7 +3048,8 @@
     ],
     "explanation": "Nel weekend, tipicamente si riposa e si 'dorme'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-110",
@@ -2967,7 +3076,8 @@
     ],
     "explanation": "I mezzi di trasporto prendono la preposizione 'in': 'in treno'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-111",
@@ -2994,7 +3104,8 @@
     ],
     "explanation": "Per un concerto si acquista o prenota un 'biglietto'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-112",
@@ -3021,7 +3132,8 @@
     ],
     "explanation": "In montagna sulla neve in inverno si fa 'sci'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-113",
@@ -3048,7 +3160,8 @@
     ],
     "explanation": "La lettura è un passatempo, quindi un 'hobby'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-114",
@@ -3075,7 +3188,8 @@
     ],
     "explanation": "Si riferisce a domenica prossima, azione futura espressa con il futuro semplice: 'andremo'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-115",
@@ -3102,7 +3216,8 @@
     ],
     "explanation": "Periodo ipotetico della realtà al presente: se + presente ('ho') richiede il presente indicativo ('vado').",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-116",
@@ -3129,7 +3244,8 @@
     ],
     "explanation": "'Guardare le partite' (all'infinito) completa correttamente la frase.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-117",
@@ -3156,7 +3272,8 @@
     ],
     "explanation": "Ogni sabato esprime abitudine, coniugato al presente prima persona plurale ('mangiamo').",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: prima persona plurale del verbo 'mangiamo'."
   },
   {
     "id": "q-118",
@@ -3183,7 +3300,8 @@
     ],
     "explanation": "Nascondino (el escondite) è un gioco infantile che si fa all'aperto: 'giocare a nascondino'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa agli hobby, agli sport o alle attività del tempo libero."
   },
   {
     "id": "q-119",
@@ -3210,7 +3328,8 @@
     ],
     "explanation": "Comparazione tra due nomi propri basata sulla grandezza: 'più grande di'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-120",
@@ -3237,7 +3356,8 @@
     ],
     "explanation": "Il comparativo di maggioranza irregolare dell'aggettivo 'buono' è 'migliore'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-121",
@@ -3264,7 +3384,8 @@
     ],
     "explanation": "Definizione di parentela: lo zio è il fratello del padre o della madre.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-122",
@@ -3291,7 +3412,8 @@
     ],
     "explanation": "Struttura del comparativo: più + aggettivo + di.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-123",
@@ -3318,7 +3440,8 @@
     ],
     "explanation": "Il contrario di pigro (perezoso) nel contesto dell'operosità è 'lavoratore' (trabajador) o attivo.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Qual è il contrario di 'pigro'?"
   },
   {
     "id": "q-124",
@@ -3345,7 +3468,8 @@
     ],
     "explanation": "Le opzioni descrivono l'aspetto fisico tranne 'simpatica', che si adatta alla domanda sul carattere.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-125",
@@ -3372,7 +3496,8 @@
     ],
     "explanation": "Superare un esame con il massimo dei voti rende felici.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-126",
@@ -3399,7 +3524,8 @@
     ],
     "explanation": "Comparazione di minoranza/maggioranza davanti a possessivo senza articolo ('suo fratello'): si usa la preposizione semplice 'di'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-127",
@@ -3426,7 +3552,8 @@
     ],
     "explanation": "I capelli possono essere 'biondi' (castani, neri, rossi). Le altre parole non descrivono i capelli.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-128",
@@ -3453,7 +3580,8 @@
     ],
     "explanation": "Sia 'peggiore' (irregular de cattivo) che 'migliore' (irregular de buono) sono grammaticalmente corretti. Impostiamo migliore come corretta.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-129",
@@ -3480,7 +3608,8 @@
     ],
     "explanation": "Comparazione tra due pronomi/nomi: meno + sostantivo + di + pronome.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-130",
@@ -3507,7 +3636,8 @@
     ],
     "explanation": "Una persona di 80 anni è tipicamente la più 'anziana' (o vecchia).",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-131",
@@ -3534,7 +3664,8 @@
     ],
     "explanation": "Pensare a se stessi: pronome riflessivo di terza persona dopo preposizione è 'se'.",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-132",
@@ -3561,7 +3692,8 @@
     ],
     "explanation": "Perdere le chiavi provoca rabbia, quindi 'si arrabbia' (verbo riflessivo arrabbiarsi).",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-133",
@@ -3588,7 +3720,8 @@
     ],
     "explanation": "La figlia della sorella o del fratello è la 'nipote' (sobrina).",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-134",
@@ -3615,7 +3748,8 @@
     ],
     "explanation": "Chi fa molto sport è atletico o in forma.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-135",
@@ -3642,7 +3776,8 @@
     ],
     "explanation": "Non dormire bene causa stanchezza ('stanco').",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-136",
@@ -3669,7 +3804,8 @@
     ],
     "explanation": "Chi parla facilmente con tutti è 'socievole' (sociable).",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-137",
@@ -3696,7 +3832,8 @@
     ],
     "explanation": "Costruzione del comparativo di maggioranza: più + aggettivo + di.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-138",
@@ -3723,7 +3860,8 @@
     ],
     "explanation": "Il figlio dello zio è il 'cugino' (primo).",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-139",
@@ -3750,7 +3888,8 @@
     ],
     "explanation": "L'aggettivo 'azzurri' concorda in genere e numero con il sostantivo maschile plurale 'occhi'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-140",
@@ -3777,7 +3916,8 @@
     ],
     "explanation": "Uso corretto del comparativo di maggioranza con aggettivo: 'più difficile del'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa a come descrivere l'aspetto fisico, la personalità o fare confronti."
   },
   {
     "id": "q-141",
@@ -3804,7 +3944,8 @@
     ],
     "explanation": "Il tiramisù è un dolce al cucchiaio, quindi un dessert.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-142",
@@ -3831,7 +3972,8 @@
     ],
     "explanation": "Articolo partitivo femminile singolare davanti a parola que inizia per vocale: 'di + l'' = 'dell''.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-143",
@@ -3858,7 +4000,8 @@
     ],
     "explanation": "Articolo partitivo femminile plurale: 'di + le' = 'delle' (alcune arance).",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-144",
@@ -3885,7 +4028,8 @@
     ],
     "explanation": "Articolo partitivo maschile singolare davanti a consonante semplice s: 'di + il' = 'del'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-145",
@@ -3912,7 +4056,8 @@
     ],
     "explanation": "Nelle frasi negative, spesso l'articolo partitivo viene omesso o si usa l'articolo determinativo/nulla: 'Non bevo mai caffè'. Qui l'opzione corretta è 'caffè' senza preposizione o l'articolo determinativo. Mettiamo 'caffè'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-146",
@@ -3939,7 +4084,8 @@
     ],
     "explanation": "Articolo partitivo maschile plurale: 'di + i' = 'dei'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-147",
@@ -3966,7 +4112,8 @@
     ],
     "explanation": "Il secondo piatto è a base di carne o pesce, come 'il pollo'. La pasta è un primo, il tiramisù un dolce.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-148",
@@ -3993,7 +4140,8 @@
     ],
     "explanation": "Un contorno tipico è l'insalata 'mista'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-149",
@@ -4020,7 +4168,8 @@
     ],
     "explanation": "Soggetto plurale ('noi'), quindi si usa il condizionale plurale di cortesia: 'Vorremmo'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-150",
@@ -4047,7 +4196,8 @@
     ],
     "explanation": "Alla fine del pasto in ristorante si richiede e si paga il 'conto'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-151",
@@ -4074,7 +4224,8 @@
     ],
     "explanation": "Il gorgonzola è un tipo di formaggio erborinato.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-152",
@@ -4101,7 +4252,8 @@
     ],
     "explanation": "Carne e pesce sono i due tipi principali di secondi piatti di origine animale.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-153",
@@ -4128,7 +4280,8 @@
     ],
     "explanation": "Si parla di 'rosso' o 'bianco' riferendosi al 'vino'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-154",
@@ -4155,7 +4308,8 @@
     ],
     "explanation": "Il caffellatte o cappuccino si consuma tipicamente a colazione con il cornetto.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-155",
@@ -4182,7 +4336,8 @@
     ],
     "explanation": "Si usa il coltello per tagliare.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-156",
@@ -4209,7 +4364,8 @@
     ],
     "explanation": "I cibi liquidi come minestre e zuppe si mangiano con il cucchiaio.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-157",
@@ -4236,7 +4392,8 @@
     ],
     "explanation": "Gli spaghetti si arrotolano e si mangiano con la forchetta.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-158",
@@ -4263,7 +4420,8 @@
     ],
     "explanation": "La dieta vegetariana esclude carne e pesce.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-159",
@@ -4290,7 +4448,8 @@
     ],
     "explanation": "I liquori alle erbe o agli agrumi presi a fine pasto sono detti 'digestivi'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-160",
@@ -4317,7 +4476,8 @@
     ],
     "explanation": "La bruschetta si serve all'inizio come antipasto.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-161",
@@ -4344,7 +4504,8 @@
     ],
     "explanation": "Partitivo maschile singolare per pane: 'del'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-162",
@@ -4371,7 +4532,8 @@
     ],
     "explanation": "Il formaggio cremoso fondamentale per il tiramisù è il mascarpone.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario legato al cibo, alle quantità o alle ordinazioni al ristorante."
   },
   {
     "id": "q-163",
@@ -4398,7 +4560,8 @@
     ],
     "explanation": "Il verbo 'fanno' è plurale, quindi richiede un soggetto plurale: 'i piedi'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-164",
@@ -4425,7 +4588,8 @@
     ],
     "explanation": "La gola è la parte del corpo coinvolta nella deglutizione.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-165",
@@ -4452,7 +4616,8 @@
     ],
     "explanation": "La temperatura corporea elevata si misura in gradi ed è la 'febbre'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-166",
@@ -4479,7 +4644,8 @@
     ],
     "explanation": "Si assume una 'medicina' (o pillola, compressa) per curare un sintomo.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-167",
@@ -4506,7 +4672,8 @@
     ],
     "explanation": "Si va dal medico per una diagnosi e cura.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-168",
@@ -4533,7 +4700,8 @@
     ],
     "explanation": "Imperativo negativo di seconda persona singolare ('tu'): non + infinito verbale ('non prendere').",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: seconda persona singolare del verbo 'seconda'."
   },
   {
     "id": "q-169",
@@ -4560,7 +4728,8 @@
     ],
     "explanation": "Imperativo per la seconda persona plurale ('voi'): 'portate'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: seconda persona plurale del verbo 'voi'."
   },
   {
     "id": "q-170",
@@ -4587,7 +4756,8 @@
     ],
     "explanation": "Imperativo formale (cortesia) di terza persona singolare per il verbo prendere: 'prenda'.",
     "difficulty": 3,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: terza persona singolare del verbo 'terza'."
   },
   {
     "id": "q-171",
@@ -4614,7 +4784,8 @@
     ],
     "explanation": "Mangiare in exceso causa mal di stomaco.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-172",
@@ -4641,7 +4812,8 @@
     ],
     "explanation": "Per problemi ai denti si consulta il dentista.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-173",
@@ -4668,7 +4840,8 @@
     ],
     "explanation": "Avere freddo e tremare per la febbre provoca i 'brividi'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-174",
@@ -4695,7 +4868,8 @@
     ],
     "explanation": "Stare seduti a lungo provoca mal di schiena.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-175",
@@ -4722,7 +4896,8 @@
     ],
     "explanation": "Il medicinale liquido per la tosse è lo 'sciroppo'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-176",
@@ -4749,7 +4924,8 @@
     ],
     "explanation": "Il medico degli occhi e della vista è l'oculista.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-177",
@@ -4776,7 +4952,8 @@
     ],
     "explanation": "Un trauma fisico senza ferita aperta genera un ematoma o 'livido'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-178",
@@ -4803,7 +4980,8 @@
     ],
     "explanation": "Lo strumento per misurare la temperatura corporea è il termometro.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-179",
@@ -4830,7 +5008,8 @@
     ],
     "explanation": "Espressione 'mi gira la testa' (sento vertigini).",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-180",
@@ -4857,7 +5036,8 @@
     ],
     "explanation": "Stare riparati e coperti ('al caldo') aiuta a guarire dall'influenza.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-181",
@@ -4884,7 +5064,8 @@
     ],
     "explanation": "Il naso chiuso è un classico sintomo del raffreddore.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-182",
@@ -4911,7 +5092,8 @@
     ],
     "explanation": "Pancia è singolare, richiede 'fa male'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-183",
@@ -4938,7 +5120,8 @@
     ],
     "explanation": "L'atto di iniettare un farmaco è un'iniezione (o puntura).",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-184",
@@ -4965,7 +5148,8 @@
     ],
     "explanation": "Una scottatura provoca dolore ('fa male').",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa alle parti del corpo, ai sintomi o ai verbi riflessivi."
   },
   {
     "id": "q-185",
@@ -4992,7 +5176,8 @@
     ],
     "explanation": "Il biglietto è il titolo di viaggio necessario per salire sui mezzi pubblici.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-186",
@@ -5019,7 +5204,8 @@
     ],
     "explanation": "Espressione per indicare di proseguire senza svoltare: 'andare sempre dritto'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-187",
@@ -5046,7 +5232,8 @@
     ],
     "explanation": "'Destra' o 'sinistra' indicano le direzioni di svolta.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-188",
@@ -5073,7 +5260,8 @@
     ],
     "explanation": "La metropolitana viaggia su binari sotterranei ed evita il traffico stradale.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-189",
@@ -5100,7 +5288,8 @@
     ],
     "explanation": "I treni partono e arrivano ai 'binari' in stazione.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-190",
@@ -5127,7 +5316,8 @@
     ],
     "explanation": "I turisti fotografano i monumenti storici.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-191",
@@ -5154,7 +5344,8 @@
     ],
     "explanation": "Entrambi comprare e timbrare sono corretti a seconda del contesto. Impostiamo comprare come prima scelta.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-192",
@@ -5181,7 +5372,8 @@
     ],
     "explanation": "In Italia è obbligatorio convalidare (timbrare) i biglietti cartacei prima di salire.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-193",
@@ -5208,7 +5400,8 @@
     ],
     "explanation": "Riferito al futuro prossimo ('quest'estate' inteso come pianificato): 'andrò'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-194",
@@ -5235,7 +5428,8 @@
     ],
     "explanation": "Un volo decollato dopo l'orario stabilito ha accumulato 'ritardo'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-195",
@@ -5262,7 +5456,8 @@
     ],
     "explanation": "Per autobus e tram si parla di 'fermata'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-196",
@@ -5289,7 +5484,8 @@
     ],
     "explanation": "'Dietro' è preposizione di luogo che non richiede articolazione obbligatoria immediata ('dietro alla' o 'dietro la').",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-197",
@@ -5316,7 +5512,8 @@
     ],
     "explanation": "Si attraversa sulle strisce pedonali.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-198",
@@ -5343,7 +5540,8 @@
     ],
     "explanation": "Si prenota una camera in albergo (o hotel).",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-199",
@@ -5370,7 +5568,8 @@
     ],
     "explanation": "La preposizione per il mezzo di trasporto senza articolo è 'in macchina'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-200",
@@ -5397,7 +5596,8 @@
     ],
     "explanation": "Con il semaforo rosso è obbligatorio arrestarsi/fermarsi.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-201",
@@ -5424,7 +5624,8 @@
     ],
     "explanation": "La mappa serve a non smarrire la via, ovvero a non 'perdersi'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-202",
@@ -5451,7 +5652,8 @@
     ],
     "explanation": "Il tempo di percorrenza si esprime col verbo durare: 'dura'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-203",
@@ -5478,7 +5680,8 @@
     ],
     "explanation": "I viaggi transcontinentali richiedono l'aereo (o la nave).",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-204",
@@ -5505,7 +5708,8 @@
     ],
     "explanation": "Si dice 'piena di' turisti per indicare affollamento.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-205",
@@ -5532,7 +5736,8 @@
     ],
     "explanation": "L'avverbio di luogo 'davanti' regge la preposizione 'a': davanti + la stazione = 'davanti alla stazione'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-206",
@@ -5559,7 +5764,8 @@
     ],
     "explanation": "Espressione figurata: viaggiare apre o arricchisce la 'mente'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Pensa ai mezzi di trasporto, ai luoghi della città o a come chiedere indicazioni."
   },
   {
     "id": "q-207",
@@ -5586,7 +5792,8 @@
     ],
     "explanation": "Davanti a nome maschile singolare che inizia per consonante si usa l'articolo indeterminativo 'un'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-208",
@@ -5613,7 +5820,8 @@
     ],
     "explanation": "Stare + gerundio (verbi in -are -> -ando) indica azione in corso: 'sto studiando'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-209",
@@ -5640,7 +5848,8 @@
     ],
     "explanation": "In un ufficio aziendale lavora solitamente un 'impiegato'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-210",
@@ -5667,7 +5876,8 @@
     ],
     "explanation": "Chi insegna a scuola è un'insegnante.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-211",
@@ -5694,7 +5904,8 @@
     ],
     "explanation": "La progettazione di infrastrutture è compito dell'ingegnere.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-212",
@@ -5721,7 +5932,8 @@
     ],
     "explanation": "Lavorare al passato prossimo richiede l'ausiliare avere: 'hanno lavorato'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Usa il passato prossimo con l'ausiliare 'avere'."
   },
   {
     "id": "q-213",
@@ -5748,7 +5960,8 @@
     ],
     "explanation": "Il Politecnico di Torino è una rinomata università.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-214",
@@ -5775,7 +5988,8 @@
     ],
     "explanation": "Stare + gerundio di spiegare (-are -> -ando) = 'sta spiegando'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-215",
@@ -5802,7 +6016,8 @@
     ],
     "explanation": "Per candidarsi a un lavoro si invia il curriculum vitae (CV).",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-216",
@@ -5829,7 +6044,8 @@
     ],
     "explanation": "Il luogo di lavoro tipico di medici e infermieri è l'ospedale o la clinica.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-217",
@@ -5856,7 +6072,8 @@
     ],
     "explanation": "Condizionale di cortesia/desiderio per la seconda persona singolare ('tu'): 'vorresti'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Coniugazione: seconda persona singolare del verbo 'cortesia'."
   },
   {
     "id": "q-218",
@@ -5883,7 +6100,8 @@
     ],
     "explanation": "Compito tipico di segreteria è redigere e scrivere lettere o email.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-219",
@@ -5910,7 +6128,8 @@
     ],
     "explanation": "La sufficienza negli esami universitari italiani è 18/30.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-220",
@@ -5937,7 +6156,8 @@
     ],
     "explanation": "L'operaio lavora tipicamente in fabbrica o nei cantieri.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-221",
@@ -5964,7 +6184,8 @@
     ],
     "explanation": "La giornata o routine comincia ('inizia') al mattino.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-222",
@@ -5991,7 +6212,8 @@
     ],
     "explanation": "L'idraulico si occupa di tubature e impianti idrici.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-223",
@@ -6018,7 +6240,8 @@
     ],
     "explanation": "Il colloquio per essere assunti è detto colloquio di lavoro.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-224",
@@ -6045,7 +6268,8 @@
     ],
     "explanation": "Sostenere gli esami è l'attività di verifica per gli studenti universitari.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-225",
@@ -6072,7 +6296,8 @@
     ],
     "explanation": "Il falegname lavora e modella il legno.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-226",
@@ -6099,7 +6324,8 @@
     ],
     "explanation": "Con le ore si usa la preposizione articolata: a + le = 'alle' dieci.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-227",
@@ -6126,7 +6352,8 @@
     ],
     "explanation": "Cessare l'attività lavorativa per raggiunti limiti d'età significa andare in 'pensione'.",
     "difficulty": 2,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
   },
   {
     "id": "q-228",
@@ -6153,6 +6380,343 @@
     ],
     "explanation": "Stiamo + gerundio di lavorare (-are -> -ando) = 'stiamo lavorando'.",
     "difficulty": 1,
-    "source": "dieci_a2"
+    "source": "dieci_a2",
+    "hint": "Vocabolario sulle professioni, l'università o azioni della routine quotidiana."
+  },
+  {
+    "id": "q-229",
+    "milestone_id": 1,
+    "topic": "I Tempi Verbali",
+    "question_text": "Se io ______ ricco, comprerei una villa sul lago di Como.",
+    "options": [
+      {
+        "text": "fossi",
+        "is_correct": true
+      },
+      {
+        "text": "sarei",
+        "is_correct": false
+      },
+      {
+        "text": "ero",
+        "is_correct": false
+      },
+      {
+        "text": "sono",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Nel periodo ipotetico di secondo tipo, la subordinata introdotta da 'se' richiede il congiuntivo imperfetto: 'se io fossi'.",
+    "difficulty": 3,
+    "source": "dieci_a2",
+    "hint": "Periodo ipotetico: se + congiuntivo imperfetto."
+  },
+  {
+    "id": "q-230",
+    "milestone_id": 1,
+    "topic": "I Tempi Verbali",
+    "question_text": "Mentre noi ______ per le strade di Roma, è iniziato a piovere.",
+    "options": [
+      {
+        "text": "camminavamo",
+        "is_correct": true
+      },
+      {
+        "text": "abbiamo camminato",
+        "is_correct": false
+      },
+      {
+        "text": "camminiamo",
+        "is_correct": false
+      },
+      {
+        "text": "cammineremo",
+        "is_correct": false
+      }
+    ],
+    "explanation": "La congiunzione 'mentre' introduce un'azione continuativa e di sfondo nel passato, espressa con l'imperfetto ('camminavamo').",
+    "difficulty": 2,
+    "source": "dieci_a2",
+    "hint": "Azione continuativa di sfondo nel passato introdotta da 'mentre'."
+  },
+  {
+    "id": "q-231",
+    "milestone_id": 2,
+    "topic": "La Casa",
+    "question_text": "Ho appeso un bellissimo ______ colorato sulla parete del soggiorno.",
+    "options": [
+      {
+        "text": "quadro",
+        "is_correct": true
+      },
+      {
+        "text": "tappeto",
+        "is_correct": false
+      },
+      {
+        "text": "armadio",
+        "is_correct": false
+      },
+      {
+        "text": "comodino",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Un oggetto d'arte o decorativo che si appende alla parete è un 'quadro'.",
+    "difficulty": 1,
+    "source": "dieci_a2",
+    "hint": "Oggetto decorativo o d'arte appeso al muro."
+  },
+  {
+    "id": "q-232",
+    "milestone_id": 3,
+    "topic": "I Pronomi",
+    "question_text": "Hai telefonato ai nonni? Sì, ______ telefono sempre la domenica.",
+    "options": [
+      {
+        "text": "loro",
+        "is_correct": false
+      },
+      {
+        "text": "gli",
+        "is_correct": true
+      },
+      {
+        "text": "li",
+        "is_correct": false
+      },
+      {
+        "text": "le",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Il pronome indiretto per la terza persona plurale ('a loro' / 'ai nonni') prima del verbo è 'gli'.",
+    "difficulty": 2,
+    "source": "dieci_a2",
+    "hint": "Usa un pronome indiretto per 'a loro' prima del verbo."
+  },
+  {
+    "id": "q-233",
+    "milestone_id": 4,
+    "topic": "Le Preposizioni",
+    "question_text": "Quest'estate ho intenzione di andare ______ vacanza ______ Sardegna.",
+    "options": [
+      {
+        "text": "in / in",
+        "is_correct": true
+      },
+      {
+        "text": "a / in",
+        "is_correct": false
+      },
+      {
+        "text": "in / a",
+        "is_correct": false
+      },
+      {
+        "text": "a / a",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Si dice 'andare in vacanza' e si usa la preposizione 'in' con le grandi isole come la 'Sardegna'.",
+    "difficulty": 2,
+    "source": "dieci_a2",
+    "hint": "Espressione fissa per le vacanze e preposizione con le grandi isole."
+  },
+  {
+    "id": "q-234",
+    "milestone_id": 5,
+    "topic": "Tempo Libero",
+    "question_text": "Mi piace molto fare ______ all'aria aperta nei boschi la domenica.",
+    "options": [
+      {
+        "text": "trekking",
+        "is_correct": true
+      },
+      {
+        "text": "calcio",
+        "is_correct": false
+      },
+      {
+        "text": "nuoto",
+        "is_correct": false
+      },
+      {
+        "text": "palestra",
+        "is_correct": false
+      }
+    ],
+    "explanation": "L'attività di camminare all'aria aperta in montagna o nei boschi è il 'trekking' o escursionismo.",
+    "difficulty": 1,
+    "source": "dieci_a2",
+    "hint": "Attività all'aria aperta che consiste nel camminare in montagna o nei boschi."
+  },
+  {
+    "id": "q-235",
+    "milestone_id": 6,
+    "topic": "Le Persone",
+    "question_text": "Mio fratello è molto ______, non dice mai bugie a nessuno.",
+    "options": [
+      {
+        "text": "onesto",
+        "is_correct": true
+      },
+      {
+        "text": "timido",
+        "is_correct": false
+      },
+      {
+        "text": "pigro",
+        "is_correct": false
+      },
+      {
+        "text": "geloso",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Una persona che dice sempre la verità ed è leale si definisce 'onesta'.",
+    "difficulty": 1,
+    "source": "dieci_a2",
+    "hint": "Qualità morale di chi non mente e rispetta le regole."
+  },
+  {
+    "id": "q-236",
+    "milestone_id": 7,
+    "topic": "Alimentazione",
+    "question_text": "Cameriere, come antipasto vorrei un tagliere di ______ e formaggi misti.",
+    "options": [
+      {
+        "text": "salumi",
+        "is_correct": true
+      },
+      {
+        "text": "dolci",
+        "is_correct": false
+      },
+      {
+        "text": "pesce",
+        "is_correct": false
+      },
+      {
+        "text": "verdura",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Un tipico antipasto italiano comprende un tagliere con 'salumi' (prosciutto, salame) e formaggi.",
+    "difficulty": 1,
+    "source": "dieci_a2",
+    "hint": "Affettati misti come salame, prosciutto, coppa."
+  },
+  {
+    "id": "q-237",
+    "milestone_id": 8,
+    "topic": "Salute e Corpo",
+    "question_text": "Se ti fa male un dente, dovresti prendere un ______ per calmare il dolore.",
+    "options": [
+      {
+        "text": "antidolorifico",
+        "is_correct": true
+      },
+      {
+        "text": "sciroppo",
+        "is_correct": false
+      },
+      {
+        "text": "termometro",
+        "is_correct": false
+      },
+      {
+        "text": "cerotto",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Un farmaco per attenuare il dolore è chiamato 'antidolorifico'.",
+    "difficulty": 2,
+    "source": "dieci_a2",
+    "hint": "Farmaco specifico contro il dolore."
+  },
+  {
+    "id": "q-238",
+    "milestone_id": 9,
+    "topic": "Città e Viaggi",
+    "question_text": "Per arrivare in tempo a Milano conviene prendere il treno ad alta ______.",
+    "options": [
+      {
+        "text": "velocità",
+        "is_correct": true
+      },
+      {
+        "text": "stazione",
+        "is_correct": false
+      },
+      {
+        "text": "fermata",
+        "is_correct": false
+      },
+      {
+        "text": "linea",
+        "is_correct": false
+      }
+    ],
+    "explanation": "I treni veloci come Frecciarossa o Italo sono treni ad 'alta velocità'.",
+    "difficulty": 1,
+    "source": "dieci_a2",
+    "hint": "I treni più rapidi che collegano le grandi città."
+  },
+  {
+    "id": "q-239",
+    "milestone_id": 10,
+    "topic": "Lavoro e Studio",
+    "question_text": "Il professore ha fissato il prossimo ______ per martedì mattina.",
+    "options": [
+      {
+        "text": "appello",
+        "is_correct": true
+      },
+      {
+        "text": "lavoro",
+        "is_correct": false
+      },
+      {
+        "text": "orario",
+        "is_correct": false
+      },
+      {
+        "text": "aula",
+        "is_correct": false
+      }
+    ],
+    "explanation": "All'università, la sessione d'esame in un giorno specifico è definita 'appello'.",
+    "difficulty": 2,
+    "source": "dieci_a2",
+    "hint": "Sessione o data d'esame all'università."
+  },
+  {
+    "id": "q-240",
+    "milestone_id": 10,
+    "topic": "Lavoro e Studio",
+    "question_text": "Sto cercando un lavoro part-time che mi permetta di ______ e studiare.",
+    "options": [
+      {
+        "text": "lavorare",
+        "is_correct": true
+      },
+      {
+        "text": "dormire",
+        "is_correct": false
+      },
+      {
+        "text": "viaggiare",
+        "is_correct": false
+      },
+      {
+        "text": "giocare",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Un lavoro a tempo parziale consente di combinare lo studio con l'attività lavorativa ('lavorare').",
+    "difficulty": 1,
+    "source": "dieci_a2",
+    "hint": "Svolgere un'attività lavorativa."
   }
 ]

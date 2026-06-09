@@ -18,6 +18,7 @@ export const QuizCard: React.FC<QuizCardProps> = ({ question, onAnswer, onNext }
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [isAnswered, setIsAnswered] = useState(false);
   const [shake, setShake] = useState(false);
+  const [showHint, setShowHint] = useState(false);
 
   const speak = (text: string) => {
     if (!soundEnabled) return;
@@ -103,6 +104,27 @@ export const QuizCard: React.FC<QuizCardProps> = ({ question, onAnswer, onNext }
           <h2 className="font-display text-xl md:text-2xl font-bold text-text-primary leading-snug">
             {question.question_text}
           </h2>
+
+          {question.hint && (
+            <div className="mt-4 pt-3 border-t border-border/40">
+              {showHint || isAnswered ? (
+                <div className="flex flex-col gap-1">
+                  <span className="text-[10px] font-bold text-accent uppercase tracking-wider">Suggerimento (Hint):</span>
+                  <p className="text-xs text-text-secondary leading-normal italic">{question.hint}</p>
+                </div>
+              ) : (
+                <button
+                  onClick={() => setShowHint(true)}
+                  className="text-xs font-semibold text-primary hover:text-primary-hover flex items-center gap-1.5 transition-colors focus:outline-none cursor-pointer"
+                >
+                  <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  </svg>
+                  Mostra suggerimento (Hint)
+                </button>
+              )}
+            </div>
+          )}
         </Card>
       </motion.div>
 

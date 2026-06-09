@@ -10,6 +10,7 @@ export interface Question {
   question_text: string;
   options: Option[];
   explanation: string;
+  hint?: string;
   difficulty: number;
   source: string;
   created_at?: string;

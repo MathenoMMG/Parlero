@@ -19,21 +19,6 @@
   --radius-lg: 24px;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --primary: #7CB894;
-    --primary-hover: #96CBAC;
-    --accent: #E8956E;
-    --accent-hover: #F2AE8C;
-    --background: #121214;
-    --surface: #1A1A1F;
-    --text-primary: #F5F0EB;
-    --text-secondary: #9A938D;
-    --error: #E87070;
-    --border: #2D2D33;
-  }
-}
-
 .dark {
   --primary: #7CB894;
   --primary-hover: #96CBAC;
