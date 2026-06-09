@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build > build-log.txt 2>&1 || (mkdir -p .next && cp build-log.txt .next/build-log.txt && echo 'Logged build failure' && exit 0)"
+  command = "rm -rf node_modules && npm install && npm run build"
   publish = ".next"
   base = "app"
 
