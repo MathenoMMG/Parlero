@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Parleró — Studio CLA Italiano A2 PoliTo",
   description: "Webapp mobile per lo studio della lingua italiana A2 (CLA - Politecnico di Torino) basata su Dieci A2.",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/logo-mark.png",
   },
 };
 

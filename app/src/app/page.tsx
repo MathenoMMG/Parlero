@@ -25,9 +25,13 @@ export default function Home() {
     <div className="flex-1 flex flex-col justify-between p-6">
       {/* Top Header Controls */}
       <div className="flex justify-between items-center w-full">
-        <span className="font-display text-lg font-bold text-accent tracking-wide">
-          Parleró
-        </span>
+        <div className="h-8 flex items-center">
+          <img
+            src={theme === 'dark' ? '/logo-text-dark.png' : '/logo-text-light.png'}
+            alt="Parleró"
+            className="h-8 w-auto object-contain transition-all duration-300"
+          />
+        </div>
         <div className="flex items-center gap-3">
           {/* Sound toggle button */}
           <button
@@ -46,7 +50,7 @@ export default function Home() {
               </svg>
             )}
           </button>
-
+ 
           {/* Theme toggle button */}
           <button
             onClick={toggleTheme}
@@ -65,9 +69,16 @@ export default function Home() {
           </button>
         </div>
       </div>
-
+ 
       {/* Main Title Hero */}
-      <div className="flex flex-col items-center text-center my-auto py-10">
+      <div className="flex flex-col items-center text-center my-auto py-8">
+        <div className="relative w-24 h-24 mb-6 hover:scale-105 transition-transform duration-300 ease-out select-none">
+          <img
+            src="/logo-mark.png"
+            alt="Parleró Isotipo"
+            className="w-full h-full object-contain filter drop-shadow-md dark:drop-shadow-[0_4px_12px_rgba(232,149,110,0.15)]"
+          />
+        </div>
         <h1 className="font-display text-5xl font-black text-text-primary tracking-wide mb-1">
           Parleró
         </h1>
