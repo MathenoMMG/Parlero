@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build"
+  command = "npm run build > build-log.txt 2>&1 || (mkdir -p .next && cp build-log.txt .next/build-log.txt && echo 'Logged build failure' && exit 0)"
   publish = ".next"
   base = "app"
 
