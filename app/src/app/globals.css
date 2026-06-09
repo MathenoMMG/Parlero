@@ -1,26 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=DM+Serif+Display&display=swap');
+
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --primary: #2D5A3D;
+  --primary-hover: #22432E;
+  --accent: #C4704B;
+  --accent-hover: #A05937;
+  --background: #FAF6F1;
+  --surface: #FFFFFF;
+  --text-primary: #1A1A1F;
+  --text-secondary: #6B6560;
+  --error: #C44B4B;
+  --border: #E8E2DB;
+  
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --primary: #7CB894;
+    --primary-hover: #96CBAC;
+    --accent: #E8956E;
+    --accent-hover: #F2AE8C;
+    --background: #121214;
+    --surface: #1A1A1F;
+    --text-primary: #F5F0EB;
+    --text-secondary: #9A938D;
+    --error: #E87070;
+    --border: #2D2D33;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.dark {
+  --primary: #7CB894;
+  --primary-hover: #96CBAC;
+  --accent: #E8956E;
+  --accent-hover: #F2AE8C;
+  --background: #121214;
+  --surface: #1A1A1F;
+  --text-primary: #F5F0EB;
+  --text-secondary: #9A938D;
+  --error: #E87070;
+  --border: #2D2D33;
 }
+
+@theme {
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-error: var(--error);
+  --color-border: var(--border);
+
+  --font-sans: 'DM Sans', sans-serif;
+  --font-body: 'DM Sans', sans-serif;
+  --font-display: 'DM Serif Display', serif;
+  
+  --radius-sm: var(--radius-sm);
+  --radius-md: var(--radius-md);
+  --radius-lg: var(--radius-lg);
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text-primary);
+  font-family: 'DM Sans', sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  min-height: 100vh;
+}
+
+/* Custom animated styles */
+.shake-animation {
+  animation: shake 0.4s ease-in-out;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-6px); }
+  40%, 80% { transform: translateX(6px); }
+}
+
+.pulse-animation {
+  animation: pulse 0.5s ease-out;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.03); }
+  100% { transform: scale(1); }
+}
+
