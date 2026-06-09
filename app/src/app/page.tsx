@@ -1,5 +1,6 @@
 'use client';
 
+// Force rebuild trigger
 import React from 'react';
 import Link from 'next/link';
 import { useProgressStore } from '../stores/useProgressStore';
