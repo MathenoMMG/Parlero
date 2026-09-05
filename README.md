@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <img src="logo-mark.png" alt="Parleró Logo" width="110" height="110" />
 
@@ -15,6 +15,7 @@
   <p align="center">
     <a href="https://github.com/MathenoMMG/Parlero/stargazers"><img src="https://img.shields.io/github/stars/MathenoMMG/Parlero?style=for-the-badge&logo=star&color=E8956E&labelColor=23201F" alt="Stars" /></a>
     <a href="https://github.com/MathenoMMG/Parlero/network/members"><img src="https://img.shields.io/github/forks/MathenoMMG/Parlero?style=for-the-badge&color=E8956E&labelColor=23201F" alt="Forks" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&color=E8956E&labelColor=23201F" alt="License: MIT" /></a>
     <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
     <a href="https://react.dev/"><img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
     <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
@@ -157,6 +158,8 @@ L'output viene generato nella directory `app/out` ed è pronto per essere distri
 I contributi, suggerimenti e feedback sono sempre i benvenuti! Se trovi un refuso in una domanda d'esame o vuoi aggiungere una spiegazione grammaticale:
 1. Apri una [Issue](https://github.com/MathenoMMG/Parlero/issues)
 2. Invia una [Pull Request](https://github.com/MathenoMMG/Parlero/pulls)
+
+Questo progetto è rilasciato sotto licenza open-source [MIT](LICENSE). Consulta il file `LICENSE` per maggiori dettagli.
 
 ---
 
